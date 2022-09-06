@@ -1,16 +1,16 @@
-@import  url ( 'https://fonts.googleapis.com/css? family= Roboto+Serif:opsz,wght@8..144,200;8..144,400;8..144,700 & display=swap' );
+@import  url('https://fonts.googleapis.com/css? family= Roboto+Serif:opsz,wght@8..144,200;8..144,400;8..144,700 & display=swap');
 
 * {
-    font-family :  'roboto' , sans-serif;
-    box-sizing : border-box;
-    margin :  0;
-    padding:  0;
+    font-family: 'roboto', sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
-body ,
+body,
 html {
-    background-color:  #000;
-    color:  #fff; 
+    background-color: #000;
+    color: #fff; 
 }
 
 a,
